@@ -5,3 +5,6 @@
 
 ### For running the containers, run 
 `docker-compose up -d client`
+
+### Now check your applicationa at
+`localhost:3000`
